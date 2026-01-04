@@ -33,9 +33,9 @@ This project simulates a real-world enterprise network using Cisco Packet Tracer
 - Inter-VLAN communication
 - Troubleshooting with `ping`, `show ip interface brief`, `show vlan brief`, `show interfaces trunk`
 
-## Screenshots
-![VLAN Topology](<img width="951" height="485" alt="Connections " src="https://github.com/user-attachments/assets/b3890f03-36a4-4231-a8d0-33ef6c71c8e2" />
-.png)
+## Screenshot
+VLAN Topology<img width="951" height="485" alt="Connections " src="https://github.com/user-attachments/assets/b3890f03-36a4-4231-a8d0-33ef6c71c8e2" />
+
 
 ## How to Use
 1. Open `EnterpriseNetwork.pkt` in Cisco Packet Tracer.
